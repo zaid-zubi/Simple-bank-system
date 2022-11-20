@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zaid-zubi
+- 👀 I’m interested in Web development
+- I have knowledge in PHP with laravel framework ,HTML & CSS, Java and JavaScript
+- I have knowledge in MySQL and Oracle
+- My goal is to develop myself and the web community as whole 
+- 🌱 I’m currently learning python with FastAPI , data analysis and AWS
